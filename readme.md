@@ -18,8 +18,8 @@ Project developed during lab sessions of the [Full Stack Deep Learning Bootcamp]
   - [Setup](setup.md) (10 min): Get set up with jupyterhub.
   - Introduction to problem and [project structure](project_structure.md) (20 min).
   - Gather handwriting data (10 min).
-  - [Lab 1](lab1.md) (20 min): Introduce EMNIST. Training code details. Train & evaluate character prediction baselines.
-  - [Lab 2](lab2.md) (30 min): Introduce EMNIST Lines. Overview of CTC loss and model architecture. Train our model on EMNIST Lines.
+  - [Lab 1](lab1) (20 min): Introduce EMNIST. Training code details. Train & evaluate character prediction baselines.
+  - [Lab 2](lab2) (30 min): Introduce EMNIST Lines. Overview of CTC loss and model architecture. Train our model on EMNIST Lines.
 - Second session (60 min)
   - [Lab 3](lab3.md) (40 min): Weights & Biases + parallel experiments
   - [Lab 4](lab4.md) (20 min): IAM Lines and experimentation time (hyperparameter sweeps, leave running overnight).
